@@ -290,7 +290,7 @@
 
 		<!-- Owl-Carousel -->
 		<div id="owl-demo" class="owl-carousel text-center">
-			<div class="item g1 popup-with-zoom-anim" href="#small-dialog">
+			<div class="item g1 popup-with-zoom-anim" href="Recursos/#small-dialog">
 				<img class="lazyOwl" data-src="Recursos/images/1.jpg" alt="Corsa Racer">
 				<div class="caption">
 					<h4>Duis nec congue</h4>
@@ -304,50 +304,50 @@
 					<span>Neque porro quisquam est qui dolorem </span>
 				</div>
 			</div>
-			<div class="item g1 popup-with-zoom-anim" href="#small-dialog">
-				<img class="lazyOwl" data-src="images/3.jpg" alt="Corsa Racer">
+			<div class="item g1 popup-with-zoom-anim" href="Recursos/#small-dialog">
+				<img class="lazyOwl" data-src="Recursos/images/3.jpg" alt="Corsa Racer">
 				<div class="caption">
 					<h4>Duis nec congue</h4>
 					<span>Neque porro quisquam est qui dolorem </span>
 				</div>
 			</div>
-			<div class="item g1 popup-with-zoom-anim" href="#small-dialog">
-				<img class="lazyOwl" data-src="images/4.jpg" alt="Corsa Racer">
+			<div class="item g1 popup-with-zoom-anim" href="Recursos/#small-dialog">
+				<img class="lazyOwl" data-src="Recursos/images/4.jpg" alt="Corsa Racer">
 				<div class="caption">
 					<h4>Duis nec congue</h4>
 					<span>Neque porro quisquam est qui dolorem </span>
 				</div>
 			</div>
-			<div class="item g1 popup-with-zoom-anim" href="#small-dialog">
-				<img class="lazyOwl" data-src="images/5.jpg" alt="Corsa Racer">
+			<div class="item g1 popup-with-zoom-anim" href="Recursos/#small-dialog">
+				<img class="lazyOwl" data-src="Recursos/images/5.jpg" alt="Corsa Racer">
 				<div class="caption">
 					<h4>Duis nec congue</h4>
 					<span>Neque porro quisquam est qui dolorem </span>
 				</div>
 			</div>
-			<div class="item g1 popup-with-zoom-anim" href="#small-dialog">
-				<img class="lazyOwl" data-src="images/6.jpg" alt="Corsa Racer">
+			<div class="item g1 popup-with-zoom-anim" href="Recursos/#small-dialog">
+				<img class="lazyOwl" data-src="Recursos/images/6.jpg" alt="Corsa Racer">
 				<div class="caption">
 					<h4>Duis nec congue</h4>
 					<span>Neque porro quisquam est qui dolorem </span>
 				</div>
 			</div>
-			<div class="item g1 popup-with-zoom-anim" href="#small-dialog">
-				<img class="lazyOwl" data-src="images/1.jpg" alt="Corsa Racer">
+			<div class="item g1 popup-with-zoom-anim" href="Recursos/#small-dialog">
+				<img class="lazyOwl" data-src="Recursos/images/1.jpg" alt="Corsa Racer">
 				<div class="caption">
 					<h4>Duis nec congue</h4>
 					<span>Neque porro quisquam est qui dolorem </span>
 				</div>
 			</div>
-			<div class="item g1 popup-with-zoom-anim" href="#small-dialog">
-				<img class="lazyOwl" data-src="images/2.jpg" alt="Corsa Racer">
+			<div class="item g1 popup-with-zoom-anim" href="Recursos/#small-dialog">
+				<img class="lazyOwl" data-src="Recursos/images/2.jpg" alt="Corsa Racer">
 				<div class="caption">
 					<h4>Duis nec congue</h4>
 					<span>Neque porro quisquam est qui dolorem </span>
 				</div>
 			</div>
-			<div class="item g1 popup-with-zoom-anim" href="#small-dialog">
-				<img class="lazyOwl" data-src="images/3.jpg" alt="Corsa Racer">
+			<div class="item g1 popup-with-zoom-anim" href="Recursos/#small-dialog">
+				<img class="lazyOwl" data-src="Recursos/images/3.jpg" alt="Corsa Racer">
 				<div class="caption">
 					<h4>Duis nec congue</h4>
 					<span>Neque porro quisquam est qui dolorem </span>
@@ -360,7 +360,7 @@
 		<div class="caption-popup">
 			<div id="small-dialog" class="mfp-hide innercontent">
 				<h3>Place content Here</h3>
-				<img class="img-responsive" src="images/1.jpg" title="postname" />
+				<img class="img-responsive" src="Recursos/images/1.jpg" title="postname" />
 				<p>elit. Etiam sit amet nunc nec magna accumsan ultricies eget a leo. Praesent nec libero aliquet, malesuada nibh et, tincidunt arcu. Aenean porta faucibus nisl. Fusce ultrices nec purus eget consequat. Phasellus pharetra dignissim lacus id rhoncus. In malesuada et mi non mollis. </p>
 			</div>
 		</div>
@@ -418,28 +418,28 @@
 				<div class="stats-info">
 					<div class="col-md-3 col-sm-3 stats-grid">
 						<div class="stats-img">
-							<img src="images/s2.png" alt="Corsa Racer">
+							<img src="Recursos/images/s2.png" alt="Corsa Racer">
 						</div>
 						<div class='numscroller numscroller-big-bottom' data-slno='1' data-min='0' data-max='12357000' data-delay='.5' data-increment="10000">12357000</div>
 						<p>Happy Gamers</p>
 					</div>
 					<div class="col-md-3 col-sm-3 stats-grid">
 						<div class="stats-img">
-							<img src="images/s3.png" alt="Corsa Racer">
+							<img src="Recursos/images/s3.png" alt="Corsa Racer">
 						</div>
 						<div class='numscroller numscroller-big-bottom' data-slno='1' data-min='0' data-max='170' data-delay='8' data-increment="1">170</div>
 						<p>Million Downloads</p>
 					</div>
 					<div class="col-md-3 col-sm-3 stats-grid">
 						<div class="stats-img">
-							<img src="images/s4.png" alt="Corsa Racer">
+							<img src="Recursos/images/s4.png" alt="Corsa Racer">
 						</div>
 						<div class='numscroller numscroller-big-bottom' data-slno='1' data-min='0' data-max='1290000' data-delay='.5' data-increment="1000">1290000</div>
 						<p>Followers</p>
 					</div>
 					<div class="col-md-3 col-sm-3 stats-grid">
 						<div class="stats-img">
-							<img src="images/s5.png" alt="Corsa Racer">
+							<img src="Recursos/images/s5.png" alt="Corsa Racer">
 						</div>
 						<div class='numscroller numscroller-big-bottom' data-slno='1' data-min='0' data-max='169' data-delay='8' data-increment="1">169</div>
 						<p>Awards</p>
@@ -462,46 +462,46 @@
 		<div class="container">
 			<div class="grid">
 				<figure class="effect-dexter">
-					<img src="images/team-1.jpg" alt="Corsa Racer"/>
+					<img src="Recursos/images/team-1.jpg" alt="Corsa Racer"/>
 					<figcaption>
 						<h4>Bruce <span> Wayne</span></h4>
 						<ul class="social">
-							<li><a href="#" class="facebook" title="Go to Our Facebook Page"></a></li>
-							<li><a href="#" class="twitter" title="Go to Our Twitter Account"></a></li>
-							<li><a href="#" class="googleplus" title="Go to Our Google Plus Account"></a></li>
+							<li><a href="Recursos/#" class="facebook" title="Go to Our Facebook Page"></a></li>
+							<li><a href=Recursos/"#" class="twitter" title="Go to Our Twitter Account"></a></li>
+							<li><a href="Recursos/#" class="googleplus" title="Go to Our Google Plus Account"></a></li>
 						</ul>
 					</figcaption>
 				</figure>
 				<figure class="effect-dexter">
-					<img src="images/team-2.jpg" alt="Corsa Racer"/>
+					<img src="Recursos/images/team-2.jpg" alt="Corsa Racer"/>
 					<figcaption>
 						<h4>Clark <span> Kent</span></h4>
 						<ul class="social">
-							<li><a href="#" class="facebook" title="Go to Our Facebook Page"></a></li>
-							<li><a href="#" class="twitter" title="Go to Our Twitter Account"></a></li>
-							<li><a href="#" class="googleplus" title="Go to Our Google Plus Account"></a></li>
+							<li><a href="Recursos/#" class="facebook" title="Go to Our Facebook Page"></a></li>
+							<li><a href="Recursos/#" class="twitter" title="Go to Our Twitter Account"></a></li>
+							<li><a href="Recursos/#" class="googleplus" title="Go to Our Google Plus Account"></a></li>
 						</ul>
 					</figcaption>
 				</figure>
 				<figure class="effect-dexter">
-					<img src="images/team-3.jpg" alt="Corsa Racer"/>
+					<img src="Recursos/images/team-3.jpg" alt="Corsa Racer"/>
 					<figcaption>
 						<h4>Diana <span> Prince</span></h4>
 						<ul class="social">
-							<li><a href="#" class="facebook" title="Go to Our Facebook Page"></a></li>
-							<li><a href="#" class="twitter" title="Go to Our Twitter Account"></a></li>
-							<li><a href="#" class="googleplus" title="Go to Our Google Plus Account"></a></li>
+							<li><a href="Recursos/#" class="facebook" title="Go to Our Facebook Page"></a></li>
+							<li><a href="Recursos/#" class="twitter" title="Go to Our Twitter Account"></a></li>
+							<li><a href="Recursos/#" class="googleplus" title="Go to Our Google Plus Account"></a></li>
 						</ul>
 					</figcaption>
 				</figure>
 				<figure class="effect-dexter">
-					<img src="images/team-4.jpg" alt="Corsa Racer"/>
+					<img src="Recursos/images/team-4.jpg" alt="Corsa Racer"/>
 					<figcaption>
 						<h4>Lex <span> Luthor</span></h4>
 						<ul class="social">
-							<li><a href="#" class="facebook" title="Go to Our Facebook Page"></a></li>
-							<li><a href="#" class="twitter" title="Go to Our Twitter Account"></a></li>
-							<li><a href="#" class="googleplus" title="Go to Our Google Plus Account"></a></li>
+							<li><a href="Recursos/#" class="facebook" title="Go to Our Facebook Page"></a></li>
+							<li><a href="Recursos/#" class="twitter" title="Go to Our Twitter Account"></a></li>
+							<li><a href="Recursos/#" class="googleplus" title="Go to Our Google Plus Account"></a></li>
 						</ul>
 					</figcaption>
 				</figure>
@@ -518,42 +518,42 @@
 		<div class="container">
 			<div class="download-image">
 				<a href="#">
-					<img src="images/download-1.jpg" alt="Corsa Racer">
+					<img src="Recursos/images/download-1.jpg" alt="Corsa Racer">
 				</a>
 			</div>
 			<div class="download-image">
 				<a href="#">
-					<img src="images/download-2.jpg" alt="Corsa Racer">
+					<img src="Recursos/images/download-2.jpg" alt="Corsa Racer">
 				</a>
 			</div>
 			<div class="download-image">
 				<a href="#">
-					<img src="images/download-3.jpg" alt="Corsa Racer">
+					<img src="Recursos/images/download-3.jpg" alt="Corsa Racer">
 				</a>
 			</div>
 			<div class="download-image">
 				<a href="#">
-					<img src="images/download-4.jpg" alt="Corsa Racer">
+					<img src="Recursos/images/download-4.jpg" alt="Corsa Racer">
 				</a>
 			</div>
 			<div class="download-image">
 				<a href="#">
-					<img src="images/download-5.jpg" alt="Corsa Racer">
+					<img src="Recursos/images/download-5.jpg" alt="Corsa Racer">
 				</a>
 			</div>
 			<div class="download-image">
 				<a href="#">
-					<img src="images/download-6.jpg" alt="Corsa Racer">
+					<img src="Recursos/images/download-6.jpg" alt="Corsa Racer">
 				</a>
 			</div>
 			<div class="download-image">
 				<a href="#">
-					<img src="images/download-7.jpg" alt="Corsa Racer">
+					<img src="Recursos/images/download-7.jpg" alt="Corsa Racer">
 				</a>
 			</div>
 			<div class="download-image">
 				<a href="#">
-					<img src="images/download-8.jpg" alt="Corsa Racer">
+					<img src="Recursos/images/download-8.jpg" alt="Corsa Racer">
 				</a>
 			</div>
 			<div class="clearfix"></div>
@@ -579,9 +579,9 @@
 
 				<div class="message">
 					<div class="col-md-6 col-sm-6 grid_6 c1">
-						<input type="text" class="text" placeholder="Name" required="" >
-						<input type="text" class="text" placeholder="Email" required="" >
-						<input type="text" class="text" placeholder="Phone" required="" >
+						<input type="Recursos/text" class="text" placeholder="Name" required="" >
+						<input type="Recursos/text" class="text" placeholder="Email" required="" >
+						<input type="Recursos/text" class="text" placeholder="Phone" required="" >
 					</div>
 
 					<div class="col-md-6 col-sm-6 grid_6 c1">
@@ -605,11 +605,11 @@
 				<div class="col-md-4 col-sm-4 footer-info-grid links">
 					<h4>QUICK LINKS</h4>
 					<ul>
-						<li><a href="#about">About</a></li>
-						<li><a href="#features">Features</a></li>
-						<li><a href="#skills">Skills</a></li>
-						<li><a href="#team">Team</a></li>
-						<li><a href="#">Home</a></li>
+						<li><a href="Recursos/#about">About</a></li>
+						<li><a href="Recursos/#features">Features</a></li>
+						<li><a href="Recursos/#skills">Skills</a></li>
+						<li><a href="Recursos/#team">Team</a></li>
+						<li><a href="Recursos/#">Home</a></li>
 					</ul>
 				</div>
 				<div class="col-md-4 col-sm-4 footer-info-grid address">
@@ -641,16 +641,16 @@
 				<div class="connect-social">
 					<h4>CONNECT</h4>
 					<ul>
-						<li><a href="#" class="facebook" title="Go to Our Facebook Page"></a></li>
-						<li><a href="#" class="twitter" title="Go to Our Twitter Account"></a></li>
-						<li><a href="#" class="googleplus" title="Go to Our Google Plus Account"></a></li>
-						<li><a href="#" class="linkedin" title="Go to Our Linkedin Page"></a></li>
-						<li><a href="#" class="blogger" title="Go to Our Blogger Account"></a></li>
-						<li><a href="#" class="tumblr" title="Go to Our Tumblr Page"></a></li>
-						<li><a href="#" class="rss" title="Go to Our RSS Feed"></a></li>
-						<li><a href="#" class="youtube" title="Go to Our Youtube Channel"></a></li>
-						<li><a href="#" class="vimeo" title="Go to Our Vimeo Channel"></a></li>
-						<li><a href="#" class="deviantart" title="Go to Our Deviantart Page"></a></li>
+						<li><a href="Recursos/#" class="facebook" title="Go to Our Facebook Page"></a></li>
+						<li><a href="Recursos/#" class="twitter" title="Go to Our Twitter Account"></a></li>
+						<li><a href="Recursos/#" class="googleplus" title="Go to Our Google Plus Account"></a></li>
+						<li><a href="Recursos/#" class="linkedin" title="Go to Our Linkedin Page"></a></li>
+						<li><a href="Recursos/#" class="blogger" title="Go to Our Blogger Account"></a></li>
+						<li><a href="Recursos/#" class="tumblr" title="Go to Our Tumblr Page"></a></li>
+						<li><a href="Recursos/#" class="rss" title="Go to Our RSS Feed"></a></li>
+						<li><a href="Recursos/#" class="youtube" title="Go to Our Youtube Channel"></a></li>
+						<li><a href="Recursos/#" class="vimeo" title="Go to Our Vimeo Channel"></a></li>
+						<li><a href="Recursos/#" class="deviantart" title="Go to Our Deviantart Page"></a></li>
 					</ul>
 				</div>
 			</div>
