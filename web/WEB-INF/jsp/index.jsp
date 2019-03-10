@@ -59,7 +59,11 @@
 						<li class="hover-effect"><a href="#skills">Skills</a></li>
 						<li class="hover-effect"><a href="#team">Team</a></li>
 						<li class="hover-effect"><a href="#download">Download</a></li>
-						<li class="hover-effect"><a href="#contact">Contact</a></li>
+						<li><a href="#" class="dropdown-toggle hvr-sweep-to-bottom" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Register<span class="caret"></span></a>
+									<ul class="dropdown-menu">
+										<li><a class="hvr-sweep-to-bottom" href="personaCrear.htm">Crear</a></li>
+										<li><a class="hvr-sweep-to-bottom" href="personaConsultar.htm">Consultar</a></li>
+										<li><a class="hvr-sweep-to-bottom" href="personaEditar.htm">Editar</a></li>
 					</ul>
 				</div>
 
@@ -572,24 +576,44 @@
 	<div class="contact" id="contact">
 		<div class="container">
 
-			<h3>Contact</h3>
+			<h3>Register</h3>
 			<div class="heading-underline"></div>
 
 			<form class="contact_form">
 
 				<div class="message">
 					<div class="col-md-6 col-sm-6 grid_6 c1">
-						<input type="text" class="text" placeholder="Name" required="" >
-						<input type="text" class="text" placeholder="Email" required="" >
-						<input type="text" class="text" placeholder="Phone" required="" >
+                                            <input type="text" name="identificacion" placeholder="Identificación" required>
+                                            <input type="text" name="nombre1" placeholder="Nombre 1" required>
+                                            <input type="text" name="nombre2" placeholder="Nombre 2" required>
+                                            <input type="text" name="apellido1" placeholder="Apellido 1" required>
+                                            <input type="text" name="apellido2" placeholder="Apellido 2" required>
+                                            
+                                                
 					</div>
 
 					<div class="col-md-6 col-sm-6 grid_6 c1">
-						<textarea placeholder="Message" required=""></textarea>
-					</div>
-					<div class="clearfix"></div>
+                                            
+                                           
+                                            <input type="text" name="genero" placeholder="Genero" required="">
+                                            <input type="text" name="tipop" placeholder="Tipo Persona" required="">
+                                            <input type="date" name="fecha" placeholder="Fecha Nacimiento" required="">
+                                            <input type="text" name="telefono" placeholder="Telefono" required="">
+                                            <input type="email" name="email" placeholder="E-mail" required="">
 
-					<input type="submit" class="more_btn" value="Send Message">
+                                            
+					</form>
+				</div>
+                                    <div class="clearfix"></div>
+                                    <input type="submit" class="more_btn" value="Register">  
+					
+				<p>${mensaje}</p>
+			</div>
+                                                  
+                                            
+					
+
+					
 				</div>
 			</form>
 

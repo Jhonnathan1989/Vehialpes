@@ -1,229 +1,268 @@
+<%-- 
+    Document   : index
+    Created on : 8/03/2019, 01:38:54 PM
+    Author     : jrami
+--%>
+
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
-<!--A Design by W3layouts
-Author: W3layout
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<title>Hosting City a Hosting Category Flat Bootstrap responsive Website Template | Registration :: w3layouts</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Hosting City Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
-<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
-<!-- bootstrap-css -->
-<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
-<!--// bootstrap-css -->
-<!-- css -->
-<link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
-<!--// css -->
-<!-- font-awesome icons -->
-<link href="css/font-awesome.css" rel="stylesheet"> 
-<!-- //font-awesome icons -->
-<!-- font -->
-<link href="//fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
-<link href='//fonts.googleapis.com/css?family=Roboto+Condensed:400,700italic,700,400italic,300italic,300' rel='stylesheet' type='text/css'>
-<!-- //font -->
-<script src="js/jquery-1.11.1.min.js"></script>
-<script src="js/bootstrap.js"></script>
-<script src="js/SmoothScroll.min.js"></script>
-<script type="text/javascript">
-	jQuery(document).ready(function($) {
-		$(".scroll").click(function(event){		
-			event.preventDefault();
-			$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
-		});
-	});
-</script>
+<html>
+    <head>
+
+<title>VEHIALPES</title>
+
+<!-- For-Mobile-Apps -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Corsa Racer a Responsive Web Template, Bootstrap Web Templates, Flat Web Templates, Android Compatible Web Template, Smartphone Compatible Web Template, Free Webdesigns for Nokia, Samsung, LG, Sony Ericsson, Motorola Web Design" />
+	<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- //For-Mobile-Apps -->
+
+<!-- Custom-Stylesheet-Links -->
+	<!-- Bootstrap-Core-CSS --> <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" media="all"/>
+	<!-- Index-Page-Styling --> <link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
+	<!-- Owl-Carousel-CSS --> <link rel="stylesheet" href="css/owl.carousel.css" type="text/css" media="all"/>
+	<!-- Popup-Box-CSS --> <link rel="stylesheet" href="css/popuo-box.css" type="text/css" media="all"/>
+<!-- //Custom-Stylesheet-Links -->
+
+<!-- Web-Fonts -->
+	<link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,600,700' rel='stylesheet' type='text/css'>
+	<link href='//fonts.googleapis.com/css?family=Racing+Sans+One' rel='stylesheet' type='text/css'>
+	<link href='//fonts.googleapis.com/css?family=Raleway:400,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
+<!-- //Web-Fonts -->
+
 </head>
 <body>
-	<!-- header-top -->
-	<div class="header-top">
-		<div class="container">
-			<div class="w3layouts-address">
-				<ul>
-					<li><i class="fa fa-mobile" aria-hidden="true"></i> +11 222 333 4444</li>
-					<li><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:info@example.com"> mail@example.com</a></li>
-				</ul>
-			</div>
-			<div class="agileinfo-social-grids">
-				<ul>
-					<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-					<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-					<li><a href="#"><i class="fa fa-rss"></i></a></li>
-					<li><a href="#"><i class="fa fa-vk"></i></a></li>
-				</ul>
-			</div>
-			<div class="clearfix"> </div>
-		</div>
-	</div>
-	<!-- //header-top -->
-	<!-- header -->
+
+	<!-- Header -->
 	<div class="header">
-			<div class="container">
-				<nav class="navbar navbar-default">
-					<!-- Brand and toggle get grouped for better mobile display -->
-					<div class="navbar-header">
-					  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+
+		<!-- Navbar -->
+		<nav class="navbar navbar-default">
+			<div class="container-fluid">
+
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
 						<span class="sr-only">Toggle navigation</span>
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
-					  </button>
-						<div class="w3layouts-logo">
-							<h1><a href="index.html">Hosting <span>City</span></a></h1>
-						</div>
-					</div>
+					</button>
+					<a class="navbar-brand" href="#">VEHIALPES</a>
+				</div>
 
-					<!-- Collect the nav links, forms, and other content for toggling -->
-					<div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
-						<nav>
-							<ul class="nav navbar-nav">
-								<li><a href="helloworld.htm" class="hvr-sweep-to-bottom">Home</a></li>
-								<li><a href="about.html" class="hvr-sweep-to-bottom">About</a></li>
-								<li><a href="plans.html" class="hvr-sweep-to-bottom">Plans</a></li>
-								<li class="active"><a href="#" class="dropdown-toggle hvr-sweep-to-bottom" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Persona<span class="caret"></span></a>
-									<ul class="dropdown-menu">
-										<li><a class="hvr-sweep-to-bottom" href="personaCrear.htm">Crear</a></li>
-										<li><a class="hvr-sweep-to-bottom" href="personaConsultar.htm">Consultar</a></li>
-										<li><a class="hvr-sweep-to-bottom" href="personaEditar.htm">Editar</a></li>
-									</ul>
-								</li>
-								<li><a href="blog.html" class="hvr-sweep-to-bottom">Blog</a></li>
-								<li><a href="mail.html" class="hvr-sweep-to-bottom">Mail Us</a></li>
-							</ul>
-						</nav>
-					</div>
-					<!-- /.navbar-collapse -->
-				</nav>
-			</div>
-	</div>
-	<!-- //header -->
-	<!-- about-heading -->
-	<div class="about-heading">
-		<h2>Crear <span>Persona</span></h2>
-	</div>
-	<!-- //about-heading -->
-	<div class="registration">
+				<div id="navbar" class="navbar-collapse collapse">
+					<ul class="nav navbar-nav navbar-right">
+						
+		</nav>
+		
+
+	<!-- Contact -->
+	<div class="contact" id="contact">
 		<div class="container">
-			<div class="signin-form profile">
-				<h3>:: Registro ::</h3>
-				
-				<div class="login-form">
-					<form action="personaRegistrar.htm" method="post">
+
+                    
+                     
+			<h3>Register</h3>
+			<div class="heading-underline"></div>
+
+			<form class="contact_form">
+
+				<div class="message">
+					<div class="col-md-6 col-sm-6 grid_6 c1">
                                             <input type="text" name="identificacion" placeholder="Identificación" required>
                                             <input type="text" name="nombre1" placeholder="Nombre 1" required>
                                             <input type="text" name="nombre2" placeholder="Nombre 2" required>
                                             <input type="text" name="apellido1" placeholder="Apellido 1" required>
                                             <input type="text" name="apellido2" placeholder="Apellido 2" required>
+                                            
+                                                
+					</div>
+
+					<div class="col-md-6 col-sm-6 grid_6 c1">
+                                            
+                                           
                                             <input type="text" name="genero" placeholder="Genero" required="">
                                             <input type="text" name="tipop" placeholder="Tipo Persona" required="">
                                             <input type="date" name="fecha" placeholder="Fecha Nacimiento" required="">
                                             <input type="text" name="telefono" placeholder="Telefono" required="">
                                             <input type="email" name="email" placeholder="E-mail" required="">
 
-                                            <input type="submit" value="REGISTER">
+                                            
 					</form>
 				</div>
+                                    <div class="clearfix"></div>
+                                    <input type="submit" class="more_btn" value="Register">  
+					
 				<p>${mensaje}</p>
 			</div>
+                                                  
+                                            
+					
+
+					
+				</div>
+			</form>
+
 		</div>
 	</div>
-	<!-- footer -->
+	<!-- //Contact -->
+
+	<!-- Footer -->
 	<div class="footer">
 		<div class="container">
-			<div class="agile-footer-grids">
-				<div class="col-md-4 agile-footer-grid">
-					<h4>History of <span>Hosting</span></h4>
-					<p>Pellentesque urna ex, ultricies a nunc at, pretium maximus nisi. Vestibulum non auctor diam. Mauris eget consectetur mauris. <span>Aenean leo elit, accumsan vel elit vitae, mattis ultricies lacus. Cras consectetur justo lorem, sed dictum sapien eleifend at.</span></p>
-				</div>
-				<div class="col-md-4 agile-footer-grid">
-					<h4>Twitter <span>Posts</span></h4>
-					<ul class="w3agile_footer_grid_list">
-						<li>Ut aut reiciendis voluptatibus maiores <a href="#">http://example.com</a> alias, ut aut reiciendis.
-							<span><i class="fa fa-twitter" aria-hidden="true"></i> 02 days ago</span></li>
-						<li>Itaque earum rerum hic tenetur a sapiente delectus <a href="#">http://example.com</a> ut aut
-							voluptatibus.<span><i class="fa fa-twitter" aria-hidden="true"></i> 03 days ago</span></li>
+
+			<div class="footer-info">
+				<div class="col-md-4 col-sm-4 footer-info-grid links">
+					<h4>QUICK LINKS</h4>
+					<ul>
+						<li><a href="#about">About</a></li>
+						<li><a href="#features">Features</a></li>
+						<li><a href="#skills">Skills</a></li>
+						<li><a href="#team">Team</a></li>
+						<li><a href="#">Home</a></li>
 					</ul>
 				</div>
-				<div class="col-md-4 agile-footer-grid">
-					<h4>Popular <span>Posts</span></h4>
-					<div class="popular-grids">
-						<div class="popular-grid">
-							<a href="#"><img src="images/6.jpg" alt=""></a>
-						</div>
-						<div class="popular-grid">
-							<a href="#"><img src="images/7.jpg" alt=""></a>
-						</div>
-						<div class="popular-grid">
-							<a href="#"><img src="images/8.jpg" alt=""></a>
-						</div>
-						<div class="popular-grid">
-							<a href="#"><img src="images/9.jpg" alt=""></a>
-						</div>
-						<div class="clearfix"> </div>
-					</div>
-					<div class="popular-grids agileits-w3layouts-popular">
-						<div class="popular-grid">
-							<a href="#"><img src="images/10.jpg" alt=""></a>
-						</div>
-						<div class="popular-grid">
-							<a href="#"><img src="images/4.jpg" alt=""></a>
-						</div>
-						<div class="popular-grid">
-							<a href="#"><img src="images/6.jpg" alt=""></a>
-						</div>
-						<div class="popular-grid">
-							<a href="#"><img src="images/7.jpg" alt=""></a>
-						</div>
-						<div class="clearfix"> </div>
-					</div>
-					<div class="popular-grids">
-						<div class="popular-grid">
-							<a href="#"><img src="images/8.jpg" alt=""></a>
-						</div>
-						<div class="popular-grid">
-							<a href="#"><img src="images/9.jpg" alt=""></a>
-						</div>
-						<div class="popular-grid">
-							<a href="#"><img src="images/10.jpg" alt=""></a>
-						</div>
-						<div class="popular-grid">
-							<a href="#"><img src="images/4.jpg" alt=""></a>
-						</div>
-						<div class="clearfix"> </div>
-					</div>
+				<div class="col-md-4 col-sm-4 footer-info-grid address">
+					<h4>ADDRESS</h4>
+					<address>
+						<ul>
+							<li>Parma Via Modena</li>
+							<li>40019 Sant'Agata Bolognese</li>
+							<li>BO, Italy</li>
+							<li>Telephone : +1 (734) 123-4567</li>
+							<li>Email : <a class="mail" href="mailto:mail@example.com">info(at)example.com</a></li>
+						</ul>
+					</address>
 				</div>
-				<div class="clearfix"> </div>
+				<div class="col-md-4 col-sm-4 footer-info-grid email">
+					<h4>NEWSLETTER</h4>
+					<p>Subscribe to our newsletter and we will inform you about newest projects and promotions.
+					</p>
+
+					<form class="newsletter">
+						<input class="email" type="email" placeholder="Your email...">
+						<input type="submit" class="submit" value="">
+					</form>
+				</div>
+				<div class="clearfix"></div>
 			</div>
-		</div>
-		<div class="copyright">
-			<p>Â© 2016 Hosting City. All rights reserved | Design by <a href="http://w3layouts.com">W3layouts</a></p>
+
+			<div class="connect">
+				<div class="connect-social">
+					<h4>CONNECT</h4>
+					<ul>
+						<li><a href="#" class="facebook" title="Go to Our Facebook Page"></a></li>
+						<li><a href="#" class="twitter" title="Go to Our Twitter Account"></a></li>
+						<li><a href="#" class="googleplus" title="Go to Our Google Plus Account"></a></li>
+						<li><a href="#" class="linkedin" title="Go to Our Linkedin Page"></a></li>
+						<li><a href="#" class="blogger" title="Go to Our Blogger Account"></a></li>
+						<li><a href="#" class="tumblr" title="Go to Our Tumblr Page"></a></li>
+						<li><a href="#" class="rss" title="Go to Our RSS Feed"></a></li>
+						<li><a href="#" class="youtube" title="Go to Our Youtube Channel"></a></li>
+						<li><a href="#" class="vimeo" title="Go to Our Vimeo Channel"></a></li>
+						<li><a href="#" class="deviantart" title="Go to Our Deviantart Page"></a></li>
+					</ul>
+				</div>
+			</div>
+
+			<div class="copyright">
+				<p>&copy; 2016 Corsa Racer. All Rights Reserved | Design by <a href="http://w3layouts.com/"> W3layouts </a></p>
+			</div>
+
 		</div>
 	</div>
-	<!-- //footer -->
-	<script type="text/javascript" src="js/move-top.js"></script>
-	<script type="text/javascript" src="js/easing.js"></script>
-	<!-- here stars scrolling icon -->
+	<!-- //Footer -->
+
+<!-- Custom-JavaScript-File-Links -->
+
+	<!-- Supportive-JavaScript --> <script type="text/javascript" src="js/jquery.min.js"></script>
+	<!-- Necessary-JS-File-For-Bootstrap --> <script type="text/javascript" src="js/bootstrap.min.js"></script>
+
+	<!-- Banner-Slider-JavaScript -->
+	<script src="js/responsiveslides.min.js"></script>
+	<script>
+		$(function () {
+			$("#slider").responsiveSlides({
+				auto: true,
+				nav: true,
+				speed: 800,
+				namespace: "callbacks",
+				pager: true,
+			});
+		});
+	</script>
+	<!-- //Banner-Slider-JavaScript -->
+
+	<!-- Owl-Carousel-JavaScript -->
+	<script src="js/owl.carousel.js"></script>
+	<script>
+		$(document).ready(function() {
+			$("#owl-demo").owlCarousel ({
+				items : 4,
+				lazyLoad : true,
+				autoPlay : true,
+				pagination : false,
+			});
+		});
+	</script>
+	<!-- //Owl-Carousel-JavaScript -->
+
+	<!-- Magnific-Popup-Display-JavaScript -->
+	<script src="js/jquery.magnific-popup.js" type="text/javascript"></script>
+	<script>
+	$(document).ready(function() {
+		$('.popup-with-zoom-anim').magnificPopup({
+			type: 'inline',
+			fixedContentPos: false,
+			fixedBgPos: true,
+			overflowY: 'auto',
+			closeBtnInside: true,
+			preloader: false,
+			midClick: true,
+			removalDelay: 300,
+			mainClass: 'my-mfp-zoom-in'
+		});
+	});
+	</script>
+	<!-- //Magnific-Popup-Display-JavaScript -->
+
+	<!-- Progressive-Effects-Animation-JavaScript -->
+	<script type="text/javascript" src="js/jquery.inview.min.js"></script>
+	<script type="text/javascript" src="js/wow.min.js"></script>
+	<script type="text/javascript" src="js/mousescroll.js"></script>
+	<script type="text/javascript" src="js/main.js"></script>
+	<script type="text/javascript" src="js/numscroller-1.0.js"></script>
+	<!-- //Progressive-Effects-Animation-JavaScript -->
+
+	<!-- Slide-To-Top JavaScript (No-Need-To-Change) -->
 	<script type="text/javascript">
 		$(document).ready(function() {
-			/*
-				var defaults = {
+			var defaults = {
 				containerID: 'toTop', // fading element id
 				containerHoverID: 'toTopHover', // fading element hover id
-				scrollSpeed: 1200,
-				easingType: 'linear' 
-				};
-			*/
-								
+				scrollSpeed: 100,
+				easingType: 'linear'
+			};
 			$().UItoTop({ easingType: 'easeOutQuart' });
-								
+		});
+	</script>
+	<a href="#" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 0;"> </span></a>
+	<!-- //Slide-To-Top JavaScript -->
+
+	<!-- Smooth-Scrolling-JavaScript -->
+	<script type="text/javascript" src="js/move-top.js"></script>
+	<script type="text/javascript" src="js/easing.js"></script>
+	<script type="text/javascript">
+			jQuery(document).ready(function($) {
+				$(".scroll, .navbar li a, .footer li a").click(function(event){
+					$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+				});
 			});
 	</script>
-	<!-- //here ends scrolling icon -->
-</body>	
+	<!-- //Smooth-Scrolling-JavaScript -->
+
+<!-- //Custom-JavaScript-File-Links -->
+
+</body>
 </html>
